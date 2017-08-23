@@ -1,6 +1,3 @@
-// nothing script, largely for testing git.
-// hence adding in this comment.
-
 #include <stdio.h>
 #include <stdlib.h>
 
